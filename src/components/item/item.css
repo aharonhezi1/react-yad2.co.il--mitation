@@ -1,0 +1,33 @@
+th{
+    font-weight: normal;
+  }
+  
+    .table-item {
+      border: 1px solid rgb(218, 218, 230) !important;
+      border-collapse: collapse;  
+     
+      background-color: #fdf8c5!important;  
+      
+      height:86px;
+     
+      
+      
+    }
+    .table-item td{
+      
+      border: 1px solid rgb(218, 218, 230) !important;
+  
+    }
+  
+    .table-item-open {
+      border: 1px solid rgb(218, 218, 230) !important;
+      border-collapse: collapse;
+     
+      background-color: #fdf8c5!important;  
+      
+      height:137px;
+     
+      
+      
+    }
+  

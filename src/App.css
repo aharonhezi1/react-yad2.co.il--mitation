@@ -1,5 +1,48 @@
-.App {
+body,html{
+  background-color: #f8f8f8;
+  margin-right: 100%;
+
+}
+separateContainer{
+  width: 960px;
+    height: 153px;
+}
+  hr {
+    width: 470px !important;
+    
+    margin: 0 !important;
+    border: 0 !important;
+    height: 0!important;
+    border-top: 1px solid rgba(0, 0, 0, 0.1)!important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3)!important} 
+/* table{
+  height: 20vh;
+  width: 20vw;
+
+} */
+
+/* .container{
+  border: 1px solid black !important;
+  background-color: rgb(240, 238, 221) !important;  
+  width: 20vw;
+  display: inline-block;
   text-align: center;
+  height: 20vh;
+  margin-top: 3vh;
+  padding:1%;
+
+} */
+.list{
+ padding-left: 15vw; 
+ padding-top: 10vh;
+}
+.filter{
+  padding-left: 15vw; 
+  padding-top: 5vh;
+}
+.App {
+  
+  /* text-align: center;
 }
 
 .App-logo {
@@ -34,5 +77,5 @@
   }
   to {
     transform: rotate(360deg);
-  }
+  } */
 }

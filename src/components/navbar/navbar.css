@@ -1,0 +1,25 @@
+#navbarTable{
+width: 100vw;
+display: flex;
+border-collapse: collapse;
+height: 55px;
+background-color: #ffffff;
+border-bottom:2px solid #b7b7b7;
+box-shadow: 0 0 1px 0 #b7b7b7, 0 0 1px 0 #b7b7b7
+}
+#navbarTable td{
+padding: 15px 15px 15px 15px;    
+    }
+    #navbarTable td:hover{
+background-color:#f8f8f8;            }
+
+#navbarTable a{
+    text-decoration: none ;
+    color:black
+  
+}
+
+
+
+
+    /* #efefef  #f57028 */

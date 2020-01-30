@@ -1,0 +1,104 @@
+.filterContainer{
+
+    padding: 20px;
+    width: 960px;
+    height: 153px;
+    background-color: #FFFFFF;
+    -webkit-box-shadow: 3px 2px 4px 0px rgba(214,214,214,1);
+    -moz-box-shadow: 3px 2px 4px 0px rgba(214,214,214,1);
+    box-shadow: 3px 2px 4px 0px rgba(214,214,214,1);
+    table{
+        border-collapse: collapse;
+        border: 1px;
+    }
+    
+}
+
+    .inputs td{
+       vertical-align: top;
+    } 
+
+.labels td label{
+    margin-bottom: 3px;
+}
+.property-type{
+    border: 1px solid gray ;
+    width:150px ;
+    height: 40px;
+    img{   
+        height: 10px;
+        width: 10px;
+        opacity: 3;
+     
+   }
+  input{
+     height: 35px;
+    border:transparent ;
+    width: 120px;
+    outline: none;  
+     
+  }
+}
+.inputs div,button,span,input {
+height: 40px;
+margin-left: 10px;
+
+}
+.search-button{
+background-color:#f57028 ;
+color: white;
+font-weight: bold;
+font-size: 15px;
+}
+.advanced-search{
+    line-height: 0.8;
+    background-color:#f57028 ;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+   
+}
+.price-input {
+    border:     1px solid gray ;
+    height: 40px;
+    margin-bottom: 0;
+    padding-bottom:0;
+    ;
+   input{
+    padding-bottom: 0;
+
+       height: 35px;
+    border:transparent ;
+    outline: none; 
+    width: 100px ;
+
+   }
+   
+
+}
+.rooms-num{
+    border:     1px solid gray ;
+    height: 40px;
+    input{
+        padding-bottom: 0;
+    
+           height: 35px;
+        border:transparent ;
+        outline: none; 
+        width: 100px ;
+    
+       }
+    img{   
+        height: 10px;
+        width: 10px;
+        opacity: 3;
+     
+   }
+}
+td{
+   
+
+}
+
+
+
